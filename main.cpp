@@ -22,5 +22,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << "Program vege. Köszönöm, hogy futtattad!" << std::endl;
     return 0;
 }
